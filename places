@@ -1,56 +1,56 @@
 [
   {
-    id: 1,
-    name: 'Song-Kul Lake',
-    category: 'lakes',
-    description: 'A pristine alpine lake surrounded by rolling mountains',
-    coordinates: [75.1328, 41.8583],
-    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop',
-    tags: ['Lake', 'Alpine', 'Camping']
+    "id": 1,
+    "name": "Song-Kul Lake",
+    "category": "lakes",
+    "description": "A pristine alpine lake surrounded by rolling mountains",
+    "coordinates": [75.1328, 41.8583],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "tags": ["Lake", "Alpine", "Camping"]
   },
   {
-    id: 2,
-    name: 'Ala-Archa Coffee Roasters',
-    category: 'coffee',
-    description: 'Local coffee roastery with mountain views',
-    coordinates: [74.5698, 42.8746],
-    image: 'https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop',
-    tags: ['Coffee', 'Local', 'Mountain View']
+    "id": 2,
+    "name": "Ala-Archa Coffee Roasters",
+    "category": "coffee",
+    "description": "Local coffee roastery with mountain views",
+    "coordinates": [74.5698, 42.8746],
+    "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop",
+    "tags": ["Coffee", "Local", "Mountain View"]
   },
   {
-    id: 3,
-    name: 'Bishkek Street Art District',
-    category: 'graffiti',
-    description: 'Vibrant street art showcasing local culture',
-    coordinates: [74.5852, 42.8746],
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop',
-    tags: ['Art', 'Culture', 'Urban']
+    "id": 3,
+    "name": "Bishkek Street Art District",
+    "category": "graffiti",
+    "description": "Vibrant street art showcasing local culture",
+    "coordinates": [74.5852, 42.8746],
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+    "tags": ["Art", "Culture", "Urban"]
   },
   {
-    id: 4,
-    name: 'Ala-Kul Lake',
-    category: 'instagram',
-    description: 'Turquoise lake perfect for stunning photos',
-    coordinates: [78.2454, 42.5106],
-    image: 'https://images.unsplash.com/photo-1464822759844-d150ad6d2ba4?w=400&h=300&fit=crop',
-    tags: ['Photography', 'Turquoise', 'Hiking']
+    "id": 4,
+    "name": "Ala-Kul Lake",
+    "category": "instagram",
+    "description": "Turquoise lake perfect for stunning photos",
+    "coordinates": [78.2454, 42.5106],
+    "image": "https://images.unsplash.com/photo-1464822759844-d150ad6d2ba4?w=400&h=300&fit=crop",
+    "tags": ["Photography", "Turquoise", "Hiking"]
   },
   {
-    id: 5,
-    name: 'Jeti-Oguz Valley',
-    category: 'scenery',
-    description: 'Famous red rock formations and lush valleys',
-    coordinates: [78.2454, 42.3106],
-    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop',
-    tags: ['Red Rocks', 'Valley', 'Hiking']
+    "id": 5,
+    "name": "Jeti-Oguz Valley",
+    "category": "scenery",
+    "description": "Famous red rock formations and lush valleys",
+    "coordinates": [78.2454, 42.3106],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "tags": ["Red Rocks", "Valley", "Hiking"]
   },
   {
-    id: 6,
-    name: 'Peak Pobeda',
-    category: 'mountains',
-    description: 'One of the highest peaks in Central Asia',
-    coordinates: [80.1289, 42.0354],
-    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop',
-    tags: ['Peak', 'Climbing', 'Adventure']
+    "id": 6,
+    "name": "Peak Pobeda",
+    "category": "mountains",
+    "description": "One of the highest peaks in Central Asia",
+    "coordinates": [80.1289, 42.0354],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "tags": ["Peak", "Climbing", "Adventure"]
   }
 ]
